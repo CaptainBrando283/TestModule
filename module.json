@@ -1,0 +1,16 @@
+{
+  "id": "my-test-module",
+  "title": "My Test Module",
+  "description": "Module used for test and troubleshooting.",
+  "authors": [
+    {
+    "name": "cptbrando",
+    "discord": "828276065326858272"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "12"
+  }
+}
